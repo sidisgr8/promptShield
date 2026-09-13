@@ -244,7 +244,3 @@ By combining adversarial generation, automated evaluation, defensive prompt evol
 
 [GitHub — PromptShield](https://github.com/sidisgr8/promptShield)
 
-## Author
-
-**Siddharth Nair**  
-GitHub: [@sidisgr8](https://github.com/sidisgr8)
